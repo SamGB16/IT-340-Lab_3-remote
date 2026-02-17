@@ -1,0 +1,33 @@
+commit 681ba7dc2d0f5343ba20b9e54a023ec7ef8c766a
+Author: sgb <sgb@njit.edu>
+Date:   Mon Feb 16 23:17:12 2026 -0500
+
+    reverting changes
+    
+    Revert "new temp file"
+    
+    This reverts commit f76807f6a607e92b34389c51012e00b647b0dd74.
+
+commit f76807f6a607e92b34389c51012e00b647b0dd74
+Author: sgb <sgb@njit.edu>
+Date:   Mon Feb 16 23:16:17 2026 -0500
+
+    new temp file
+
+commit 8dd6cac12f0f82fc78517dc76bed816a39ebd4d1
+Author: sgb <sgb@njit.edu>
+Date:   Mon Feb 16 23:15:12 2026 -0500
+
+    edited hostname
+
+commit 39316edc07868dbec69fac3bd431104fd3da233b
+Author: sgb <sgb@njit.edu>
+Date:   Mon Feb 16 22:59:03 2026 -0500
+
+    Updated os-release with some new texts
+
+commit 53eb2bc8ef06cbcd244ec95bbdf232e9187c0ad8
+Author: sgb <sgb@njit.edu>
+Date:   Mon Feb 16 22:55:24 2026 -0500
+
+    Inital commit  Initial Starting Point of the repo
